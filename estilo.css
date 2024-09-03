@@ -1,0 +1,124 @@
+*{margin: 0px;}
+.caja1
+{
+    background-color: red;
+    width: 400px ;
+    height: 400px ;
+    position: fixed;
+    top: 220px;
+    left: 100px;
+    border-radius: 100%;
+}
+.caja1hijo
+{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    border-radius: 100%;
+
+}
+.caja1hijo2
+{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 230px;
+    border-radius: 100%;
+}
+.boca
+{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    border-radius: 70%;
+}
+.ojo
+{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-radius: 100%;
+}
+.ojo1
+{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-radius: 100%;
+}
+.boca1
+{
+    background-color: black;
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border-radius: 70%;
+
+}
+.sombrero
+{
+    background-color: blueviolet;
+    width: 500px;
+    height: 150px;
+    position: absolute;
+    top: 110px;
+    left: 50px;
+    border-radius: 70%;
+}
+.sombrero1
+{
+    background-color: blueviolet;
+    width: 250px;
+    height: 100px;
+    position: fixed;
+    top: 20px;
+    left: 170px;
+
+}
+.gato
+{
+    background-color: greenyellow;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 550px;
+    left: 100px;
+    border-radius: 65%;
+}
+.gato2
+{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 550px;
+    left: 245px;
+    border-radius: 100%;
+}
+.gato3
+{
+    background-color: greenyellow;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 550px;
+    left: 300px;
+    border-radius: 65%;
+}
+
